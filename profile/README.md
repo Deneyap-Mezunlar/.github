@@ -7,7 +7,7 @@
 
 # Projemi nasıl yayınlarım?
 
-> https://docs.google.com/forms/d/e/1FAIpQLScY2UHqMnEisjarrmYK7EsxQ7lJiVtE2AAzssktRFInBCpj7g/viewform
+> [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScY2UHqMnEisjarrmYK7EsxQ7lJiVtE2AAzssktRFInBCpj7g/viewform)
 
 
 ## Sabitlenmiş Projeler
