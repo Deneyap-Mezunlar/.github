@@ -5,6 +5,9 @@
 # Buranın amacı ne?
 > Deneyap Mezunlarının projelerini paylaşabileceği ve daha büyük bir kitleye ulaşmaları amaçlanan bir sayfa.
 
+# Projemi nasıl yayınlarım?
+
+> Yakında projelerinizi paylaşabileceğiniz bir link burada olacak! Beklemede kalın :)
 
 
 ## Sabitlenmiş Projeler
