@@ -7,7 +7,7 @@
 
 # Projemi nasıl yayınlarım?
 
-> Yakında projelerinizi paylaşabileceğiniz bir link burada olacak! Beklemede kalın :)
+> https://docs.google.com/forms/d/e/1FAIpQLScY2UHqMnEisjarrmYK7EsxQ7lJiVtE2AAzssktRFInBCpj7g/viewform
 
 
 ## Sabitlenmiş Projeler
