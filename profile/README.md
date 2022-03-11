@@ -22,3 +22,6 @@
 
 ## Bize ulaşın!
 * [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deneyapmezun@turkiyeteknolojitakimi.org)
+
+## Dipnot
+* inoaa.space alan adının Deneyap veya Deneyap Mezunlar ile alakalı bir bağı yoktur. Doğrulama amaçlı eklenmiştir.
